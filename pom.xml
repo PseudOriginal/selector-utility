@@ -32,8 +32,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/PseudOriginal/selector-utility</url>
+            <name>Github PseudOriginal Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/PseudOriginal/SelectorUtility</url>
         </repository>
     </distributionManagement>
 </project>

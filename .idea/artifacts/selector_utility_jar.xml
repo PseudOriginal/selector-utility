@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="selector-utility:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/selector_utility_jar</output-path>
-    <root id="archive" name="selector-utility.jar">
-      <element id="module-output" name="selector-utility" />
-    </root>
-  </artifact>
-</component>

@@ -1,6 +1,6 @@
 api-version: 1.16
-name: LagLevel
-version: 1.2
+name: SelectorUtility
+version: 0.1
 author: Pompier15
 main: me.pompier15.SelectorUtility.SelectorUtilityPlugin
 permissions:

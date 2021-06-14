@@ -1,0 +1,8 @@
+api-version: 1.16
+name: LagLevel
+version: 1.2
+author: Pompier15
+main: me.pompier15.SelectorUtility.SelectorUtilityPlugin
+permissions:
+  SelectorUtility:
+    default: op
